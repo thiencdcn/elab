@@ -1,0 +1,11 @@
+﻿<Window x:Class="Check.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="800">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal">
+        <Button Name="CheckMD5" Click="CheckMD5_OnClick" Width="300" Height="200">Check</Button>
+         <Button Name="ButtonWriteFile" Click="ButtonWriteFile_OnClick"  Width="300" Height="200">Write File</Button>
+        </StackPanel>
+    </Grid>
+</Window>
