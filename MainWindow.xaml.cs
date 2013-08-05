@@ -70,6 +70,8 @@ namespace Check
                 stream.Close();
                 
                 MessageBox.Show("Complete!");
+                MessageBox.Show("Complete!");
+
             }
         }
     }
