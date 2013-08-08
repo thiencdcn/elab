@@ -24,6 +24,7 @@ namespace Check
         public MainWindow()
         {
             InitializeComponent();
+            dog!
         }
 
         private void CheckMD5_OnClick(object sender, RoutedEventArgs e)
