@@ -26,6 +26,7 @@ namespace Check
             InitializeComponent();
             dog!
             Cat!
+            Human!
         }
 
         private void CheckMD5_OnClick(object sender, RoutedEventArgs e)
