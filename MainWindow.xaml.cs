@@ -23,8 +23,7 @@ namespace Check
     {
         public MainWindow()
         {
-            InitializeComponent();
-            dog!
+            InitializeComponent();            
             Cat!
             Human!
             Pig!
