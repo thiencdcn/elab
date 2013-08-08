@@ -24,7 +24,6 @@ namespace Check
         public MainWindow()
         {
             InitializeComponent();            
-            Cat!
             Human!
             Pig!
         }
