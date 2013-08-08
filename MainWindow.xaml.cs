@@ -27,6 +27,7 @@ namespace Check
             dog!
             Cat!
             Human!
+            Pig!
         }
 
         private void CheckMD5_OnClick(object sender, RoutedEventArgs e)
